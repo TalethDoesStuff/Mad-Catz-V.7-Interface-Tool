@@ -1,0 +1,3 @@
+ai has been used in this repo in the form of:
+- generating commit messages
+- identifying keycodes

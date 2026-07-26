@@ -1,0 +1,9 @@
+[project]
+name = "mad-catz-v-7-interface-tool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "hidapi>=0.15.0",
+]
